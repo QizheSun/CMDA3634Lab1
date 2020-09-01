@@ -1,1 +1,2 @@
 Original line of text from Owner
+New line of text from the Collaborator
